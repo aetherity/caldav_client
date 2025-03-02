@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:caldav_client/src/authorization.dart';
 import 'package:caldav_client/src/caldav_client.dart';
 import 'package:mock_web_server/mock_web_server.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('A group of tests', () {

@@ -1,6 +1,6 @@
 import 'package:caldav_client/src/multistatus/element.dart';
 import 'package:caldav_client/src/multistatus/multistatus.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('CalDav response test', () {
